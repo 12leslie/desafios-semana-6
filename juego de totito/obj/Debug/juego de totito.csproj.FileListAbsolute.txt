@@ -1,0 +1,8 @@
+C:\Users\leslie\source\repos\juego de totito\juego de totito\obj\Debug\juego de totito.csproj.AssemblyReference.cache
+C:\Users\leslie\source\repos\juego de totito\juego de totito\obj\Debug\juego de totito.csproj.SuggestedBindingRedirects.cache
+C:\Users\leslie\source\repos\juego de totito\juego de totito\obj\Debug\juego de totito.csproj.CoreCompileInputs.cache
+C:\Users\leslie\source\repos\juego de totito\juego de totito\bin\Debug\juego de totito.exe.config
+C:\Users\leslie\source\repos\juego de totito\juego de totito\bin\Debug\juego de totito.exe
+C:\Users\leslie\source\repos\juego de totito\juego de totito\bin\Debug\juego de totito.pdb
+C:\Users\leslie\source\repos\juego de totito\juego de totito\obj\Debug\juego de totito.exe
+C:\Users\leslie\source\repos\juego de totito\juego de totito\obj\Debug\juego de totito.pdb
